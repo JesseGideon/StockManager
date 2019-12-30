@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="takeImg">Camera</array>
+    <array name="gallery">Gallery</array>
+    <array name="remove">Remove </array>
+</resources>
